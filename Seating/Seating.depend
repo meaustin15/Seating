@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1452555634 source:c:\users\austinm\desktop\seating\main.cpp
+	<iostream>
+	<iomanip>
+
